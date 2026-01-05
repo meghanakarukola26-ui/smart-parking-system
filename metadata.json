@@ -1,0 +1,8 @@
+
+{
+  "name": "SmartPark Pro - AI-Powered Parking Solution",
+  "description": "A comprehensive smart parking management system featuring real-time slot tracking, QR-based entry/exit, automated billing, and AI-driven slot optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
